@@ -34,7 +34,7 @@ npm run tx 0x4c74cfaf9b38c1f4ab4e06819bc60d44171db664ce111190e79cb511e9dfa0d0
 ### Clone the repo and install dependencies
 
 ```
-git clone https://github.com/PatrickAlphaC/flashloan-forta-py
+git clone https://github.com/Akash-Kolekar/flashloan-forta-py
 cd flashloan-forta-py
 pip3 install -r requirements_dev.txt
 npm install
